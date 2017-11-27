@@ -2,20 +2,6 @@
 ## Title:
 Pending...
 
-## Compilation
-### Report:
-To compile the report, give the following commands in the terminal staying in the current directory:
-
-    cd Report
-    pdflatex reportMain.tex
-    cd ..
-  
-### Presentation Slides:
-To compile the presentation slides, give the following commands in the terminal staying in the current directory:
-
-    cd Presentation
-    pdflatex 2011331051_2011331063.tex
-    cd ..
 ## Supervisor:
 
 - <h3>Farida Chowdhury</h3>
