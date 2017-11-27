@@ -1,5 +1,3 @@
-# crypto-currency-value-prediction
-
 # Undergraduate Thesis
 ## Title:
 Pending...
@@ -29,7 +27,7 @@ CSE, SUST
 
 - <h3>Md Sadek Ferdous</h3>
 Research Associate,<br>
-Imperial College London
+Imperial College, London
 
 ## Students Information:
 
