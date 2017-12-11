@@ -3,25 +3,30 @@
   <head>
     <title>Bitcoin and Social Data</title>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.3.0/Chart.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.18.1/moment.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.6.0/Chart.js"></script>
+	<script src="https://github.com/nagix/chartjs-plugin-streaming/releases/download/v1.1.0/chartjs-plugin-streaming.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/pusher/4.1.0/pusher.js"></script>
     <link rel="stylesheet" type="text/css" href="style.css">
   </head>
   <body>
+  <h1>Cryptocurrency Exchange Rate in USD</h1>
     <div class="wrapper">
-      <h1>Social Sentiment Analysis Data</h1>
-      <h2>------------------------------</h2>
-/* multiline
-comment added
-here
-to demonstrate github desktop....
-*/
-      <canvas id="socialChart" width="1600" height="900"></canvas>
+      
+	  <h2>BITCOIN EXCHANGE RATE<h2>
+      <canvas id="bitChart" ></canvas>
     </div>
 
     <div class="wrapper">
-      <h1>Bitcoin Exchange Rate in USD</h1>
-      <h2>-----------------------------</h2>
-
-      <canvas id="bitcoinChart" width="1600" height="900"></canvas>
+      
+      <h2>ETEREUM EXCHANGE RATE</h2>
+	  <canvas id="ethChart" ></canvas>
+    </div>
+	
+	<div class="wrapper">
+      
+      <h2>LITECOIN EXCHANGE RATE</h2>
+	  <canvas id="liteChart" ></canvas>
     </div>
 
     <script src="script.js"></script>
