@@ -222,11 +222,11 @@ var chart3 = new Chart(ctx3, {
 });
 
 /////////////////////////////////////////////////////////////////////
-/*
+
 var buf4 = {};
-buf3['xrpChart'] = [[], []]; // prepare buffer
+buf4['xrpChart'] = [[], []]; // prepare buffer
 var pusher4 = new Pusher('de504dc5763aeef9ff52'); // Pusher key for Bitstamp
-var channel4 = pusher3.subscribe('live_trades_xrpusd'); // subscribe live trade data
+var channel4 = pusher4.subscribe('live_trades_xrpusd'); // subscribe live trade data
 channel4.bind('trade', function (data) { // callback on message receipt
     buf4['xrpChart'][data.type].push({
         x: data.timestamp * 1000, // timestamp in milliseconds
@@ -269,7 +269,7 @@ var chart4 = new Chart(ctx4, {
         plugins: {
             streaming: {
                 duration: 300000, // display data for the latest 300000ms (5 mins)
-                onRefresh: function(chart3) { // callback on chart update interval
+                onRefresh: function(chart4) { // callback on chart update interval
                     Array.prototype.push.apply(
                         chart4.data.datasets[0].data, buf4[id4][0]
                     );            // add 'buy' price data to chart
@@ -282,4 +282,3 @@ var chart4 = new Chart(ctx4, {
         }
     }
 });
-*/
