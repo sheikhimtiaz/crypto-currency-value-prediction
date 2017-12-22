@@ -1,6 +1,6 @@
 # Undergraduate Thesis
 ## Title:
-Pending...
+## Predicting Price of Crypto-currencies using External Social Stimulus.
 
 ## Supervisor:
 
@@ -21,7 +21,6 @@ Imperial College, London
 Reg no: 2013331061,<br>
 Session: 2013-14,<br>
 CSE, SUST
-
 
 - <h3>HAMIMUL HASAN</h3>
 Reg no: 2013331061,<br>
