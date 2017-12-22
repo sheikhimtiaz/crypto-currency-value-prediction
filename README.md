@@ -17,12 +17,12 @@ Imperial College, London
 
 ## Students Information:
 
-- <h3>MD IMTIAZ AHMED</h3>
-Reg no: 2013331061,<br>
+- <h3>HAMIMUL HASAN</h3>
+Reg no: 2013331058,<br>
 Session: 2013-14,<br>
 CSE, SUST
 
-- <h3>HAMIMUL HASAN</h3>
+- <h3>MD IMTIAZ AHMED</h3>
 Reg no: 2013331061,<br>
 Session: 2013-14,<br>
 CSE, SUST
