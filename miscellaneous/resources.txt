@@ -1,1 +1,6 @@
 # Available resources on our topic
+
+Learn Blockchains by Building One
+The fastest way to learn how Blockchains work is to build one
+https://hackernoon.com/learn-blockchains-by-building-one-117428612f46
+
