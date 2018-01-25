@@ -4,3 +4,5 @@ Learn Blockchains by Building One
 The fastest way to learn how Blockchains work is to build one
 https://hackernoon.com/learn-blockchains-by-building-one-117428612f46
 
+Stock+Political+Geographical Sentiment Analysis with python
+http://sentdex.com/
