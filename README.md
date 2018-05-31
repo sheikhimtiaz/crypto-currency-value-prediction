@@ -1,6 +1,5 @@
 # Undergraduate Thesis
-## Title:
-## Predicting Price of Crypto-currencies using External Social Stimulus.
+## Title: Predicting Price of Crypto-currencies using External Social Stimulus.
 
 ## Supervisor:
 
