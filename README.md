@@ -4,16 +4,16 @@
 
 ## Supervisor:
 
-- <h3>Farida Chowdhury</h3>
-Assistant Professor,<br>
-CSE, SUST
+- <h3>Md Sadek Ferdous</h3>
+Research Associate,<br>
+Imperial College, London
 
 
 ## Special Thanks to:
 
-- <h3>Md Sadek Ferdous</h3>
-Research Associate,<br>
-Imperial College, London
+- <h3>Farida Chowdhury</h3>
+Assistant Professor,<br>
+CSE, SUST
 
 ## Students Information:
 
