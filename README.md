@@ -5,10 +5,7 @@
 
 - <h3>Dr. Md. Sadek Ferdous</h3>
 Assistant Professor,<br>
-CSE, SUST <br>
-Research Associate,<br>
-Imperial College, London
-
+CSE, SUST 
 
 ## Special Thanks to:
 
